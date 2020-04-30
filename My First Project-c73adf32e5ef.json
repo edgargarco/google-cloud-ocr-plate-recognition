@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-ivy-275822",
+  "private_key_id": "c73adf32e5ef610ae2e4b09a193977738ca8293e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2YSDKotDY1QHm\nNA9zmi0Hz60uQrqnvkzKYdGvREP4HzSy057YHxuPYl+x3IMSU16gZFNEt7J9Z+ao\nvzJniwuvfKjgfbRVSNgCojI6Rw2OzXFdVcUcB5x1cRbZlbjHY9CdJQVDIKmKOQwd\nDlo694W2RIYPYNy3c4RYocPpPewrZ0pIKB1MfbNS4O7upwZD56HXBhry2TKrZY/9\nIiby4HQcYwB0o5cPdkYTxr+iUKo6pXbxB+OpBq4324VbyNd7XBicW2GdckJunCHf\n3xLSFnzHNbpLNQnXabHgF080M6giWTBj2NYL7gxen0fdE37WafoZuSJeScTB7Bxe\nRVKd894PAgMBAAECggEAKs+x+t8tVzjpMTiXR/OxDlxZsrpHRokNTZSYvCOyMNRi\ncnfqmaDzvzzAaefxfKPFWrEyOrdEVtvE8WewVU32eEMzAT+AzWREEJoyYCu9qv/e\n1KIFmwbOW2MokfrrXSK5HapLCe7o3WF2zntIAv+Hi7maHpIGPaoILyYJ7v5yKd22\nkI6AfCCxosRCQ5d/yi7ptaxvRHE7ql0pdboIHVXsexMHi+55o//BWlUBX0yZ5VnE\nJhYYArfOIeJTR7EQkIfZ9IzQdFcM84HaFjg2bX5mfKzUO5uriGBoKg8+V12laP4u\nmg6afRooGmgBn4SC9K6b7mY5xFvf2w96yRRTDaFAQQKBgQD8Qp0/PZzYaM9TJvGT\ncSHXS1iJWb8MfqEkpUuWVxWqXI60w0KXoNl345en6xjqBPNnMQ8YiE38c3CptUcW\n8zsvuDAxrqmKTYQkcKkWIQSEM/LLSTXvli0px77/kh7+VPvj4GiNxMpHeIaRPCGj\nGBflwTtJByHDR2J9urL6RTU82wKBgQC5FUzQTW15Anc7iHHl0MwdzkWEATKkc3Fr\nKXPSYgxjfhLSKrBhgRf9i80vEvmPuDsFxJgLA7QFV4Nmd3D5WYcbzhcimdu8FJmP\nmtZ1eXoCPgGN0axyLu7HBbefQ+UO3fIBsWnREa3d2bbMmi+4cgOGe932c68w45Wj\nBdU9BgCP3QKBgQCyBajHOon3x2+YtQEDFnHVaBzhQW6sOKksHWLMhESL56nmM25J\nZ4BRNVKPdEAu1rOXfW2z2G2A3U8C1SWIMrrwIEISrbqEGdRJiyAot8BiM+8CO3ZO\n0GKq+4X1An/Q6NSiqnneoqRF7+63jAIJATXMNKPME7ZmA3ikVh98s16wxQKBgAmI\nBken5R5ZOSiwsyThptFWIRBWO3RqmYmqPdO0xuyMvo1iM2kiC8k73NoywPVcyHVY\nlXfjve6UfijVt9Svfpy49UoL4FwEN5BEqgysr9LTvKLADIBo2FUZf0ZNactlNKRP\nraJdpbWKE7bfrdtyy6muUVTyyi/bWIZns36MA5VlAoGBAJr8DU6tR7Yr5ENRltXc\nfi81LbXDC5v/2eGM427ByfhiNKFV7yAQES6PYbYhZgcn5CfHyeRBVUPYV2SVKspj\n3VhoYlrLP5zO98HaeqjTTsyBDDjdE2xcjfobCkKhDgMzQWyIBnKI1CC5qld9+KVV\nEs/zDbZjABRzrslVkYX4hW1D\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-computer-vision@fleet-ivy-275822.iam.gserviceaccount.com",
+  "client_id": "101585538591151215478",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-computer-vision%40fleet-ivy-275822.iam.gserviceaccount.com"
+}
